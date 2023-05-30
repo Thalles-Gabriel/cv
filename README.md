@@ -5,3 +5,4 @@ Currículo desenvolvido para a trilha Angular Developer da DIO, baseado no templ
 ---
 
 Populado com informações verídicas que serão atualizadas após a finalização do Bootcamp.
+Disponível em: https://thalles-gabriel.github.io/cv/
